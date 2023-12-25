@@ -22,7 +22,7 @@ export default function Home()
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gray-100">
+    <main className="flex min-h-screen flex-col items-center justify-center p-12 bg-gray-100">
       <h2>Here there!</h2>
       <strong>You're in {mode} mode</strong>
     </main>
